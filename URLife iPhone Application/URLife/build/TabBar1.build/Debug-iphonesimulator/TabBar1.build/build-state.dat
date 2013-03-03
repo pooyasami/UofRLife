@@ -1,0 +1,1819 @@
+TTabBar1
+v7
+r0
+t322939926.127280
+cCheck dependencies
+cProcessInfoPlistFile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Info.plist TabBar1-Info.plist
+cCompileXIB /Users/Pooya/Desktop/TabBar1/MainWindow.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/SecondView.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/FirstView.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.xib
+cCpResource build/Debug-iphonesimulator/TabBar1.app/Map.png Map.png
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.xib
+cCpResource build/Debug-iphonesimulator/TabBar1.app/103-map.png 103-map.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/111-user.png 111-user.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/193-location-arrow.png 193-location-arrow.png
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.xib
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.xib
+cCpResource build/Debug-iphonesimulator/TabBar1.app/83-calendar.png 83-calendar.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/125-food.png 125-food.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/Map1.png Map1.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/48-fork-and-knife.png 48-fork-and-knife.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/88-beer-mug.png 88-beer-mug.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/96-book.png 96-book.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/104-index-cards.png 104-index-cards.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/63-runner.png 63-runner.png
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.xib
+cCpResource build/Debug-iphonesimulator/TabBar1.app/142-wine-bottle.png 142-wine-bottle.png
+cCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.xib
+cCpResource build/Debug-iphonesimulator/TabBar1.app/08-chat.png 08-chat.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/11-clock.png 11-clock.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/74-location.png 74-location.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/177-building.png 177-building.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/187-pencil.png 187-pencil.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/117-todo.png 117-todo.png
+cCpResource build/Debug-iphonesimulator/TabBar1.app/112-group.png 112-group.png
+cProcessPCH /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch.gch TabBar1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/main.o /Users/Pooya/Desktop/TabBar1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1AppDelegate.o /Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FirstViewController.o /Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/LoginViewController.o /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsController.o /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsParser.o /Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController.o /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EditEventController.o /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController1.o /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventDetailsController.o /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventTimeController.o /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventLocationController.o /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventsAccordingToLocationController.o /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowInformationAccordingToLocation.o /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EstablishmentsParser.o /Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEventInformationController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FeedbackParser.o /Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventFeedback.o /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Parser.o /Users/Pooya/Desktop/TabBar1/Classes/Parser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/PostMethod.o /Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TouchLocator.o /Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentInformationController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentItems.o /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MapViewController.o /Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventIcons.o /Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowSubscribersController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowVMachineInformationController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Reachability.o /Users/Pooya/Desktop/TabBar1/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1 normal i386
+cGenerateDSYMFile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app.dSYM /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1
+cTouch /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000004CC1281D00000000000C9950
+t1287727133
+s825680
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/EventKit.framework/Headers/EventKit.h
+c000000004CC1281300000000000001B3
+t1287727123
+s435
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC121E80000000000001A58
+t1287725544
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4770000000000000782
+t1286857847
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACA80000000000004F61
+t1287629992
+s20321
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Users/Pooya/Desktop/TabBar1/08-chat.png
+c000000004D8CAE290000000000000BC2
+t1301065257
+s3010
+
+N/Users/Pooya/Desktop/TabBar1/103-map.png
+c000000004D704C540000000000000C9D
+t1299205204
+s3229
+
+N/Users/Pooya/Desktop/TabBar1/104-index-cards.png
+c000000004D87D8180000000000000B4F
+t1300748312
+s2895
+
+N/Users/Pooya/Desktop/TabBar1/11-clock.png
+c000000004D8CAE290000000000000CF4
+t1301065257
+s3316
+
+N/Users/Pooya/Desktop/TabBar1/111-user.png
+c000000004D704C540000000000000BAF
+t1299205204
+s2991
+
+N/Users/Pooya/Desktop/TabBar1/112-group.png
+c000000004D8CAE290000000000000C4A
+t1301065257
+s3146
+
+N/Users/Pooya/Desktop/TabBar1/117-todo.png
+c000000004D8CAE290000000000000BBC
+t1301065257
+s3004
+
+N/Users/Pooya/Desktop/TabBar1/125-food.png
+c000000004D7845420000000000000BDE
+t1299727682
+s3038
+
+N/Users/Pooya/Desktop/TabBar1/142-wine-bottle.png
+c000000004D8A44A600000000000000BB
+t1300907174
+s187
+
+N/Users/Pooya/Desktop/TabBar1/177-building.png
+c000000004D8CAE290000000000000099
+t1301065257
+s153
+
+N/Users/Pooya/Desktop/TabBar1/187-pencil.png
+c000000004D8CAE290000000000000122
+t1301065257
+s290
+
+N/Users/Pooya/Desktop/TabBar1/193-location-arrow.png
+c000000004D704C540000000000000111
+t1299205204
+s273
+
+N/Users/Pooya/Desktop/TabBar1/48-fork-and-knife.png
+c000000004D87D8180000000000000B42
+t1300748312
+s2882
+
+N/Users/Pooya/Desktop/TabBar1/63-runner.png
+c000000004D87D8180000000000000C2D
+t1300748312
+s3117
+
+N/Users/Pooya/Desktop/TabBar1/74-location.png
+c000000004D8CAE290000000000000C2A
+t1301065257
+s3114
+
+N/Users/Pooya/Desktop/TabBar1/83-calendar.png
+c000000004D7845420000000000000B49
+t1299727682
+s2889
+
+N/Users/Pooya/Desktop/TabBar1/88-beer-mug.png
+c000000004D87D8180000000000000C0F
+t1300748312
+s3087
+
+N/Users/Pooya/Desktop/TabBar1/96-book.png
+c000000004D87D8180000000000000BF9
+t1300748312
+s3065
+
+N/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.h
+c000000004D632E2700000000000004D6
+t1298345511
+s1238
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m
+c000000004D632E270000000000001150
+t1298345511
+s4432
+i"AddEventController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.xib
+c000000004D632E27000000000000AB84
+t1298345511
+s43908
+
+N/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.h
+c000000004D87FC34000000000000053F
+t1300757556
+s1343
+i<UIKit/UIKit.h>
+i"MyEventsController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m
+c000000004D8BBB7D0000000000002672
+t1301003133
+s9842
+i"AddEventController1.h"
+i"EventDetailsController.h"
+i"EventTimeController.h"
+i"EventLocationController.h"
+i"PostMethod.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.xib
+c000000004D6536F30000000000004947
+t1298478835
+s18759
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.h
+c000000004D640E81000000000000052B
+t1298402945
+s1323
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m
+c000000004D6536F3000000000000102D
+t1298478835
+s4141
+i"EditEventController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.xib
+c000000004D640E81000000000000A239
+t1298402945
+s41529
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.h
+c000000004D6EFCB60000000000000209
+t1299119286
+s521
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m
+c000000004D6EFCB60000000000000D6A
+t1299119286
+s3434
+i"EstablishmentsParser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.h
+c000000004D87FC34000000000000038D
+t1300757556
+s909
+i<UIKit/UIKit.h>
+i"AddEventController1.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m
+c000000004D87FC340000000000001172
+t1300757556
+s4466
+i"EventDetailsController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.xib
+c000000004D87FC340000000000008516
+t1300757556
+s34070
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.h
+c000000004D8A577100000000000005B9
+t1300911985
+s1465
+i<UIKit/UIKit.h>
+i"ShowEventInformationController.h"
+i"ShowEstablishmentInformationController.h"
+i"ShowVMachineInformationController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m
+c000000004D8C0C5E0000000000000EA2
+t1301023838
+s3746
+i"EventFeedback.h"
+i"PostMethod.h"
+i"TabBar1AppDelegate.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.xib
+c000000004D80056F000000000000818A
+t1300235631
+s33162
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventIcons.h
+c000000004D87D818000000000000012A
+t1300748312
+s298
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m
+c000000004D87D81800000000000003F9
+t1300748312
+s1017
+i"EventIcons.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.h
+c000000004D7E9CC50000000000000299
+t1300143301
+s665
+i<UIKit/UIKit.h>
+i"AddEventController1.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m
+c000000004D7E9CC50000000000000F80
+t1300143301
+s3968
+i"EventLocationController.h"
+i"AddEventController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.xib
+c000000004D7E9CC500000000000060A1
+t1300143301
+s24737
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.h
+c000000004D72BE320000000000000378
+t1299365426
+s888
+i<UIKit/UIKit.h>
+i"AddEventController1.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m
+c000000004D78257C0000000000002DC3
+t1299719548
+s11715
+i"EventTimeController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib
+c000000004D7D951C00000000000060A5
+t1300075804
+s24741
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.h
+c000000004D6EEAE80000000000000215
+t1299114728
+s533
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m
+c000000004D8C0C5E0000000000000E15
+t1301023838
+s3605
+i"EventsAccordingToLocationController.h"
+i"ShowInformationAccordingToLocation.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.xib
+c000000004D704C54000000000000594E
+t1299205204
+s22862
+
+N/Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.h
+c000000004D7032BE00000000000001FD
+t1299198654
+s509
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m
+c000000004D704C540000000000000D1D
+t1299205204
+s3357
+i"FeedbackParser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.h
+c000000004D805184000000000000011A
+t1300255108
+s282
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m
+c000000004D805184000000000000114A
+t1300255108
+s4426
+i"FirstViewController.h"
+i"TouchLocator.h"
+i"TabBar1AppDelegate.h"
+i"ShowInformationAccordingToLocation.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.h
+c000000004D8AAFF300000000000002AB
+t1300934643
+s683
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m
+c000000004D8BBB7D0000000000001466
+t1301003133
+s5222
+i"LoginViewController.h"
+i"MyEventsController.h"
+i"PostMethod.h"
+i"TabBar1AppDelegate.h"
+i"Reachability.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.xib
+c000000004D704C54000000000000746A
+t1299205204
+s29802
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MapViewController.h
+c000000004D8D132100000000000001FC
+t1301091105
+s508
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m
+c000000004D8D13210000000000002529
+t1301091105
+s9513
+i"TouchLocator.h"
+i"MapViewController.h"
+i"ShowInformationAccordingToLocation.h"
+i"PostMethod.h"
+i"Parser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.h
+c000000004D8AAFF300000000000002D7
+t1300934643
+s727
+i<UIKit/UIKit.h>
+i"EventIcons.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m
+c000000004D8BBB7D0000000000002553
+t1301003133
+s9555
+i"MyEventsController.h"
+i"TabBar1AppDelegate.h"
+i"AddEventController1.h"
+i"Parser.h"
+i"PostMethod.h"
+i"ShowEventInformationController.h"
+i"Reachability.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.xib
+c000000004D60225B0000000000001C81
+t1298145883
+s7297
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.h
+c000000004D628B330000000000000215
+t1298303795
+s533
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m
+c000000004D6EEAE800000000000012D0
+t1299114728
+s4816
+i"MyEventsParser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/Parser.h
+c000000004D713817000000000000026E
+t1299265559
+s622
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/Parser.m
+c000000004D8C0C5E000000000000085F
+t1301023838
+s2143
+i"Parser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/PostMethod.h
+c000000004D7138170000000000000114
+t1299265559
+s276
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m
+c000000004D81626E00000000000003EF
+t1300324974
+s1007
+i"PostMethod.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/Reachability.h
+c000000004D8AAFF30000000000000FB1
+t1300934643
+s4017
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/Reachability.m
+c000000004D8AAFF3000000000000281E
+t1300934643
+s10270
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.h
+c000000004D7567880000000000000256
+t1299539848
+s598
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m
+c000000004D8CAE290000000000002721
+t1301065257
+s10017
+i"ShowEstablishmentInformationController.h"
+i"Parser.h"
+i"PostMethod.h"
+i"ShowEstablishmentItems.h"
+i"EventFeedback.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.xib
+c000000004D7567880000000000004AC0
+t1299539848
+s19136
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.h
+c000000004D78349500000000000001AE
+t1299723413
+s430
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m
+c000000004D8CAE290000000000001A13
+t1301065257
+s6675
+i"ShowEstablishmentItems.h"
+i"PostMethod.h"
+i"Parser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.xib
+c000000004D7834950000000000004A8A
+t1299723413
+s19082
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.h
+c000000004D8903E10000000000000282
+t1300825057
+s642
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m
+c000000004D8CAE290000000000003C7A
+t1301065257
+s15482
+i"ShowEventInformationController.h"
+i"EventFeedback.h"
+i"Parser.h"
+i"PostMethod.h"
+i"TabBar1AppDelegate.h"
+i<EventKit/EventKit.h>
+i"LoginViewController.h"
+i"ShowSubscribersController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.xib
+c000000004D7032BE0000000000004707
+t1299198654
+s18183
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.h
+c000000004D8BBB7D0000000000000241
+t1301003133
+s577
+i<UIKit/UIKit.h>
+i"EventIcons.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m
+c000000004D8C0C5E000000000000257A
+t1301023838
+s9594
+i"ShowInformationAccordingToLocation.h"
+i"ShowEventInformationController.h"
+i"Parser.h"
+i"PostMethod.h"
+i"ShowEstablishmentInformationController.h"
+i"ShowVMachineInformationController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.xib
+c000000004D87DC760000000000004ACD
+t1300749430
+s19149
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.h
+c000000004D893576000000000000019D
+t1300837750
+s413
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m
+c000000004D8C0C5E0000000000001582
+t1301023838
+s5506
+i"ShowSubscribersController.h"
+i"PostMethod.h"
+i"Parser.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.xib
+c000000004D8935760000000000004A95
+t1300837750
+s19093
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.h
+c000000004D8A8B2600000000000001DC
+t1300925222
+s476
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m
+c000000004D8C0C5E0000000000001F1F
+t1301023838
+s7967
+i"ShowVMachineInformationController.h"
+i"EventFeedback.h"
+i"Parser.h"
+i"PostMethod.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.xib
+c000000004D8A57710000000000004971
+t1300911985
+s18801
+
+N/Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.h
+c000000004D80056F0000000000000292
+t1300235631
+s658
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m
+c000000004D80056F0000000000000C8F
+t1300235631
+s3215
+i"TabBar1AppDelegate.h"
+i"LoginViewController.h"
+
+N/Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.h
+c000000004D8CD3A300000000000002F3
+t1301074851
+s755
+i<Foundation/Foundation.h>
+
+N/Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m
+c000000004D8CD3A300000000000003FE
+t1301074851
+s1022
+i"TouchLocator.h"
+
+N/Users/Pooya/Desktop/TabBar1/FirstView.xib
+c000000004D8051840000000000003E14
+t1300255108
+s15892
+
+N/Users/Pooya/Desktop/TabBar1/MainWindow.xib
+c000000004D82295B000000000000B52F
+t1300375899
+s46383
+
+N/Users/Pooya/Desktop/TabBar1/Map.png
+c000000004D6C825D0000000000033C99
+t1298956893
+s212121
+
+N/Users/Pooya/Desktop/TabBar1/Map1.png
+c000000004D805184000000000008D41D
+t1300255108
+s578589
+
+N/Users/Pooya/Desktop/TabBar1/SecondView.xib
+c000000004D60225B00000000000049CF
+t1298145883
+s18895
+
+N/Users/Pooya/Desktop/TabBar1/TabBar1_Prefix.pch
+c000000004D60225B00000000000000B7
+t1298145883
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app
+t1301247126
+s1496
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app.dSYM
+t1301247126
+s102
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/08-chat.png
+t1301247124
+s3010
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/103-map.png
+t1301247123
+s3229
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/104-index-cards.png
+t1301247123
+s2895
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/11-clock.png
+t1301247124
+s3316
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/111-user.png
+t1301247123
+s2991
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/112-group.png
+t1301247124
+s3146
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/117-todo.png
+t1301247124
+s3004
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/125-food.png
+t1301247123
+s3038
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/142-wine-bottle.png
+t1301247124
+s187
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/177-building.png
+t1301247124
+s153
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/187-pencil.png
+t1301247124
+s290
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/193-location-arrow.png
+t1301247123
+s273
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/48-fork-and-knife.png
+t1301247123
+s2882
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/63-runner.png
+t1301247123
+s3117
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/74-location.png
+t1301247124
+s3114
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/83-calendar.png
+t1301247123
+s2889
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/88-beer-mug.png
+t1301247123
+s3087
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/96-book.png
+t1301247123
+s3065
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/AddEventController.nib
+t1301247122
+s3692
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/AddEventController1.nib
+t1301247122
+s971
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EditEventController.nib
+t1301247122
+s3128
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventDetailsController.nib
+t1301247123
+s2680
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventFeedback.nib
+t1301247124
+s2896
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventLocationController.nib
+t1301247123
+s1819
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventTimeController.nib
+t1301247123
+s1444
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventsAccordingToLocationController.nib
+t1301247123
+s1746
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/FirstView.nib
+t1301247122
+s769
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Info.plist
+t1301247121
+s591
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/LoginViewController.nib
+t1301247122
+s2539
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/MainWindow.nib
+t1301247122
+s2991
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Map.png
+t1301247122
+s212121
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Map1.png
+t1301247123
+s578589
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/MyEventsController.nib
+t1301247122
+s979
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/PkgInfo
+t1301247121
+s8
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/SecondView.nib
+t1301247122
+s1742
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowEstablishmentInformationController.nib
+t1301247124
+s971
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowEstablishmentItems.nib
+t1301247124
+s971
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowEventInformationController.nib
+t1301247123
+s887
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowInformationAccordingToLocation.nib
+t1301247123
+s971
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowSubscribersController.nib
+t1301247124
+s971
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowVMachineInformationController.nib
+t1301247124
+s971
+
+N/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1
+t1301247126
+s242744
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController.o
+t1301247125
+s63348
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController1.o
+t1301247125
+s81084
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EditEventController.o
+t1301247125
+s63084
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EstablishmentsParser.o
+t1301247125
+s20128
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventDetailsController.o
+t1301247125
+s63136
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventFeedback.o
+t1301247125
+s65004
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventIcons.o
+t1301247125
+s11356
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventLocationController.o
+t1301247125
+s56328
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventTimeController.o
+t1301247125
+s71548
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventsAccordingToLocationController.o
+t1301247125
+s52212
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FeedbackParser.o
+t1301247125
+s19560
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FirstViewController.o
+t1301247125
+s50660
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/LoginViewController.o
+t1301247125
+s64524
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MapViewController.o
+t1301247125
+s70268
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsController.o
+t1301247125
+s74952
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsParser.o
+t1301247125
+s20808
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Parser.o
+t1301247125
+s18972
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/PostMethod.o
+t1301247125
+s10424
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Reachability.o
+t1301247126
+s23088
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentInformationController.o
+t1301247125
+s66036
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentItems.o
+t1301247125
+s55056
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEventInformationController.o
+t1301247125
+s94328
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowInformationAccordingToLocation.o
+t1301247125
+s64636
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowSubscribersController.o
+t1301247125
+s51564
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowVMachineInformationController.o
+t1301247125
+s60172
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1.LinkFileList
+c000000004D8F74910000000000000DEF
+t1301247121
+s3567
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1AppDelegate.o
+t1301247125
+s56648
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TouchLocator.o
+t1301247125
+s13636
+
+N/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/main.o
+t1301247125
+s6284
+
+N/Users/Pooya/Desktop/TabBar1/main.m
+c000000004D60225B0000000000000171
+t1298145883
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch.gch
+t1300766817
+s15453392
+
+NTabBar1-Info.plist
+c000000004D60225B000000000000038D
+t1298145883
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322939921#322939921#0(0"0(0#1#0"8602088416#0"0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController.o /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.157776
+e322939925.289201
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m: In function '-[AddEventController addEvent:]':
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m:33: warning: unused variable 'data1'
+lSLF07#2@65"Compile /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m322939925#322939925#0(201"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m: In function '-[AddEventController addEvent:]':/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m:33: warning: unused variable 'data1'1(22@23"Unused variable 'data1'322939925#106#95#0(6@57"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m320038311#33#0#33#0#19"unused variable '*'0(0#0#57"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m8606558400#1840"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController1.o /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.253938
+e322939925.449813
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController1.o
+x/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m: In function '-[AddEventController1 done]':
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m:72: warning: unused variable 'data1'
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m:77: warning: unused variable 'data1'
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m: In function '-[AddEventController1 tableView:didSelectRowAtIndexPath:]':
+o/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m:252: warning: unused variable 'data1'
+lSLF07#2@66"Compile /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m322939925#322939925#0(525"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m: In function '-[AddEventController1 done]':/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m:72: warning: unused variable 'data1'/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m:77: warning: unused variable 'data1'/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m: In function '-[AddEventController1 tableView:didSelectRowAtIndexPath:]':/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m:252: warning: unused variable 'data1'3(22@23"Unused variable 'data1'322939925#103#96#0(6@58"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m322695933#72#0#72#0#19"unused variable '*'0(22@23"Unused variable 'data1'322939925#199#96#0(6@58"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m322695933#77#0#77#0#19"unused variable '*'0(22@23"Unused variable 'data1'322939925#428#97#0(6@58"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m322695933#252#0#252#0#19"unused variable '*'0(0#0#58"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m8602731456#1842"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/AddEventController1.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EditEventController.o /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.159441
+e322939925.315432
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EditEventController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m322939925#322939925#0(0"0(0#0#58"/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m8605721088#1842"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EditEventController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EstablishmentsParser.o /Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.459638
+e322939925.551057
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EstablishmentsParser.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m322939925#322939925#0(0"0(0#0#59"/Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m8606212096#1844"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EstablishmentsParser.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EstablishmentsParser.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventDetailsController.o /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.289351
+e322939925.428793
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventDetailsController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m322939925#322939925#0(0"0(0#0#61"/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m8602123296#1848"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventDetailsController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventFeedback.o /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.551211
+e322939925.671342
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventFeedback.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m: In function '-[EventFeedback submitButtonPressed:]':
+o/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m:25: warning: unused variable 'data1'
+o/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m:34: warning: unused variable 'data1'
+o/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m:43: warning: unused variable 'data1'
+lSLF07#2@60"Compile /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m322939925#322939925#0(377"/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m: In function '-[EventFeedback submitButtonPressed:]':/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m:25: warning: unused variable 'data1'/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m:34: warning: unused variable 'data1'/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m:43: warning: unused variable 'data1'3(22@23"Unused variable 'data1'322939925#107#90#0(6@52"/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m322716638#25#0#25#0#19"unused variable '*'0(22@23"Unused variable 'data1'322939925#197#90#0(6@52"/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m322716638#34#0#34#0#19"unused variable '*'0(22@23"Unused variable 'data1'322939925#287#90#0(6@52"/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m322716638#43#0#43#0#19"unused variable '*'0(0#0#52"/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m8602708320#1830"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventFeedback.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventIcons.o /Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.812117
+e322939925.893164
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventIcons.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m322939925#322939925#0(0"0(0#0#49"/Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m8603400384#1824"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EventIcons.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventIcons.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventLocationController.o /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.315577
+e322939925.459483
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventLocationController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m322939925#322939925#0(0"0(0#0#62"/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m8601132768#1850"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventLocationController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventTimeController.o /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.292708
+e322939925.471151
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventTimeController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m322939925#322939925#0(0"0(0#0#58"/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m8601843968#1842"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventTimeController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventsAccordingToLocationController.o /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.428942
+e322939925.535615
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventsAccordingToLocationController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m322939925#322939925#0(0"0(0#0#74"/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m8609496928#1874"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/EventsAccordingToLocationController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FeedbackParser.o /Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.535788
+e322939925.622355
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FeedbackParser.o
+x/Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m322939925#322939925#0(0"0(0#0#53"/Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m8602912480#1832"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/FeedbackParser.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FeedbackParser.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FirstViewController.o /Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939924.514302
+e322939925.159306
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FirstViewController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m322939924#322939925#0(0"0(0#0#58"/Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m8606581312#1842"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/FirstViewController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/LoginViewController.o /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939924.515481
+e322939925.153467
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/LoginViewController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m: In function '-[LoginViewController login:]':
+o/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m:45: warning: unused variable 'data1'
+lSLF07#2@66"Compile /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m322939924#322939925#0(201"/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m: In function '-[LoginViewController login:]':/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m:45: warning: unused variable 'data1'1(22@23"Unused variable 'data1'322939925#105#96#0(6@58"/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m322695933#45#0#45#0#19"unused variable '*'0(0#0#58"/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m8605806688#1842"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/LoginViewController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MapViewController.o /Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.777564
+e322939925.988331
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MapViewController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m322939925#322939925#0(0"0(0#0#56"/Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m8604391104#1838"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/MapViewController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsController.o /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.110226
+e322939925.292559
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m322939925#322939925#0(0"0(0#0#57"/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m8609462944#1840"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsParser.o /Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.153603
+e322939925.253783
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsParser.o
+x/Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m322939925#322939925#0(0"0(0#0#53"/Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m8608669376#1832"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/MyEventsParser.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/MyEventsParser.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Parser.o /Users/Pooya/Desktop/TabBar1/Classes/Parser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.594322
+e322939925.680698
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Parser.o
+x/Users/Pooya/Desktop/TabBar1/Classes/Parser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Pooya/Desktop/TabBar1/Classes/Parser.m322939925#322939925#0(0"0(0#0#45"/Users/Pooya/Desktop/TabBar1/Classes/Parser.m8601833152#1816"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/Parser.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Parser.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/PostMethod.o /Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.622505
+e322939925.706440
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/PostMethod.o
+x/Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m322939925#322939925#0(0"0(0#0#49"/Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m8601339008#1824"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/PostMethod.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/PostMethod.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Reachability.o /Users/Pooya/Desktop/TabBar1/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.893313
+e322939926.020779
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Reachability.o
+x/Users/Pooya/Desktop/TabBar1/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Pooya/Desktop/TabBar1/Classes/Reachability.m322939925#322939926#0(0"0(0#0#51"/Users/Pooya/Desktop/TabBar1/Classes/Reachability.m8601594048#1828"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/Reachability.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentInformationController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.680842
+e322939925.859033
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentInformationController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m322939925#322939925#0(0"0(0#0#77"/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m8608519808#1880"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentInformationController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentItems.o /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.706600
+e322939925.836756
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentItems.o
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m322939925#322939925#0(0"0(0#0#61"/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m8609309216#1848"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEstablishmentItems.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEventInformationController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.471354
+e322939925.811981
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEventInformationController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m: In function '-[ShowEventInformationController tableView:didSelectRowAtIndexPath:]':
+o/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m:396: warning: unused variable 'data1'
+lSLF07#2@77"Compile /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m322939925#322939925#0(263"/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m: In function '-[ShowEventInformationController tableView:didSelectRowAtIndexPath:]':/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m:396: warning: unused variable 'data1'1(22@23"Unused variable 'data1'322939925#155#108#0(6@69"/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m322758057#396#0#396#0#19"unused variable '*'0(0#0#69"/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m8603911936#1864"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowEventInformationController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowInformationAccordingToLocation.o /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.449969
+e322939925.594135
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowInformationAccordingToLocation.o
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m322939925#322939925#0(0"0(0#0#73"/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m8607760192#1872"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowInformationAccordingToLocation.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowSubscribersController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.836920
+e322939925.974492
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowSubscribersController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m322939925#322939925#0(0"0(0#0#64"/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m8602765472#1854"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowSubscribersController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowVMachineInformationController.o /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.859196
+e322939925.993567
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowVMachineInformationController.o
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m322939925#322939925#0(0"0(0#0#72"/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m8601955328#1870"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/ShowVMachineInformationController.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1AppDelegate.o /Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939924.513341
+e322939925.157632
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1AppDelegate.o
+x/Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m322939924#322939925#0(0"0(0#0#57"/Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m8607945504#1840"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/TabBar1AppDelegate.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1AppDelegate.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TouchLocator.o /Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939925.671510
+e322939925.777348
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TouchLocator.o
+x/Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m322939925#322939925#0(0"0(0#0#51"/Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m8599656736#1828"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/Classes/TouchLocator.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TouchLocator.o0#
+
+CCompileC build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/main.o /Users/Pooya/Desktop/TabBar1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322939924.512324
+e322939925.109976
+r1
+xCompileC
+xbuild/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/main.o
+x/Users/Pooya/Desktop/TabBar1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/Pooya/Desktop/TabBar1/main.m322939924#322939925#0(0"0(0#0#35"/Users/Pooya/Desktop/TabBar1/main.m8609002272#1804"    cd /Users/Pooya/Desktop/TabBar1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-generated-files.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-own-target-headers.hmap -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-all-target-headers.hmap -iquote /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/TabBar1-project-headers.hmap -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -I/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/include -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources/i386 -I/Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/DerivedSources -include /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch -c /Users/Pooya/Desktop/TabBar1/main.m -o /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.xib
+s322939922.232061
+e322939922.954657
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.xib
+lSLF07#2@41"CompileXIB Classes/AddEventController.xib322939922#322939922#0(0"0(0#0#59"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController.xib8605909920#564"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/AddEventController.nib /Users/Pooya/Desktop/TabBar1/Classes/AddEventController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.xib
+s322939922.406608
+e322939922.849532
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.xib
+lSLF07#2@42"CompileXIB Classes/AddEventController1.xib322939922#322939922#0(0"0(0#0#60"/Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.xib8603234432#566"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/AddEventController1.nib /Users/Pooya/Desktop/TabBar1/Classes/AddEventController1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.xib
+s322939922.292720
+e322939922.971647
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.xib
+lSLF07#2@42"CompileXIB Classes/EditEventController.xib322939922#322939922#0(0"0(0#0#60"/Users/Pooya/Desktop/TabBar1/Classes/EditEventController.xib8603822912#566"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EditEventController.nib /Users/Pooya/Desktop/TabBar1/Classes/EditEventController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.xib
+s322939922.549184
+e322939923.265825
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.xib
+lSLF07#2@45"CompileXIB Classes/EventDetailsController.xib322939922#322939923#0(0"0(0#0#63"/Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.xib8602964768#572"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventDetailsController.nib /Users/Pooya/Desktop/TabBar1/Classes/EventDetailsController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.xib
+s322939923.490077
+e322939924.204128
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.xib
+lSLF07#2@36"CompileXIB Classes/EventFeedback.xib322939923#322939924#0(0"0(0#0#54"/Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.xib8608073024#554"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventFeedback.nib /Users/Pooya/Desktop/TabBar1/Classes/EventFeedback.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.xib
+s322939922.954779
+e322939923.489823
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.xib
+lSLF07#2@46"CompileXIB Classes/EventLocationController.xib322939922#322939923#0(0"0(0#0#64"/Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.xib8602578400#574"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventLocationController.nib /Users/Pooya/Desktop/TabBar1/Classes/EventLocationController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib
+s322939922.849666
+e322939923.424201
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib:-1: warning: The 'tableView' outlet of 'File's Owner' is connected to 'Table View' but 'tableView' is no longer defined on EventTimeController.
+lSLF07#2@42"CompileXIB Classes/EventTimeController.xib322939922#322939923#0(246"/* com.apple.ibtool.document.warnings *//Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib:-1: warning: The 'tableView' outlet of 'File's Owner' is connected to 'Table View' but 'tableView' is no longer defined on EventTimeController.1(22@130"The 'tableView' outlet of 'File's Owner' is connected to 'Table View' but 'tableView' is no longer defined on EventTimeController.322939923#18446744073709551615#0#0(6@60"/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib321768604#18446744073709551615#0#18446744073709551615#0#0"0(0#0#60"/Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib8602769280#566"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventTimeController.nib /Users/Pooya/Desktop/TabBar1/Classes/EventTimeController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.xib
+s322939922.972755
+e322939923.610838
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.xib
+lSLF07#2@58"CompileXIB Classes/EventsAccordingToLocationController.xib322939922#322939923#0(0"0(0#0#76"/Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.xib8602069536#598"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/EventsAccordingToLocationController.nib /Users/Pooya/Desktop/TabBar1/Classes/EventsAccordingToLocationController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.xib
+s322939921.652595
+e322939922.406451
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.xib
+lSLF07#2@42"CompileXIB Classes/LoginViewController.xib322939921#322939922#0(0"0(0#0#60"/Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.xib8609812128#566"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/LoginViewController.nib /Users/Pooya/Desktop/TabBar1/Classes/LoginViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.xib
+s322939922.099023
+e322939922.549047
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.xib
+lSLF07#2@41"CompileXIB Classes/MyEventsController.xib322939922#322939922#0(0"0(0#0#59"/Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.xib8607372512#564"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/MyEventsController.nib /Users/Pooya/Desktop/TabBar1/Classes/MyEventsController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.xib
+s322939923.614533
+e322939924.101002
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.xib
+lSLF07#2@61"CompileXIB Classes/ShowEstablishmentInformationController.xib322939923#322939924#0(0"0(0#0#79"/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.xib8603724160#604"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowEstablishmentInformationController.nib /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentInformationController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.xib
+s322939923.713529
+e322939924.165956
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.xib
+lSLF07#2@45"CompileXIB Classes/ShowEstablishmentItems.xib322939923#322939924#0(0"0(0#0#63"/Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.xib8603034336#572"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowEstablishmentItems.nib /Users/Pooya/Desktop/TabBar1/Classes/ShowEstablishmentItems.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.xib
+s322939923.424326
+e322939923.953417
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.xib
+lSLF07#2@53"CompileXIB Classes/ShowEventInformationController.xib322939923#322939923#0(0"0(0#0#71"/Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.xib8608968640#588"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowEventInformationController.nib /Users/Pooya/Desktop/TabBar1/Classes/ShowEventInformationController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.xib
+s322939923.266076
+e322939923.713408
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.xib
+lSLF07#2@57"CompileXIB Classes/ShowInformationAccordingToLocation.xib322939923#322939923#0(0"0(0#0#75"/Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.xib8602723520#596"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowInformationAccordingToLocation.nib /Users/Pooya/Desktop/TabBar1/Classes/ShowInformationAccordingToLocation.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.xib
+s322939923.962953
+e322939924.407314
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.xib
+lSLF07#2@48"CompileXIB Classes/ShowSubscribersController.xib322939923#322939924#0(0"0(0#0#66"/Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.xib8590370560#578"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowSubscribersController.nib /Users/Pooya/Desktop/TabBar1/Classes/ShowSubscribersController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.xib
+s322939924.102164
+e322939924.512132
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.xib
+lSLF07#2@56"CompileXIB Classes/ShowVMachineInformationController.xib322939924#322939924#0(0"0(0#0#74"/Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.xib8607920416#594"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/ShowVMachineInformationController.nib /Users/Pooya/Desktop/TabBar1/Classes/ShowVMachineInformationController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/FirstView.xib
+s322939921.651793
+e322939922.098884
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib322939921#322939922#0(0"0(0#0#42"/Users/Pooya/Desktop/TabBar1/FirstView.xib8604525504#538"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/FirstView.nib /Users/Pooya/Desktop/TabBar1/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/MainWindow.xib
+s322939921.650574
+e322939922.292584
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322939921#322939922#0(0"0(0#0#43"/Users/Pooya/Desktop/TabBar1/MainWindow.xib8610657888#540"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/MainWindow.nib /Users/Pooya/Desktop/TabBar1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Pooya/Desktop/TabBar1/SecondView.xib
+s322939921.651223
+e322939922.231919
+r1
+xCompileXIB
+x/Users/Pooya/Desktop/TabBar1/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib322939921#322939922#0(0"0(0#0#43"/Users/Pooya/Desktop/TabBar1/SecondView.xib8607840800#540"    cd /Users/Pooya/Desktop/TabBar1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/SecondView.nib /Users/Pooya/Desktop/TabBar1/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/08-chat.png 08-chat.png
+s322939924.166091
+e322939924.173761
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/08-chat.png
+x08-chat.png
+lSLF07#2@16"Copy 08-chat.png322939924#322939924#0(0"0(0#0#40"/Users/Pooya/Desktop/TabBar1/08-chat.png8606189984#439"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/08-chat.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/103-map.png 103-map.png
+s322939923.610974
+e322939923.625228
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/103-map.png
+x103-map.png
+lSLF07#2@16"Copy 103-map.png322939923#322939923#0(0"0(0#0#40"/Users/Pooya/Desktop/TabBar1/103-map.png8606269152#439"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/103-map.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/104-index-cards.png 104-index-cards.png
+s322939923.958654
+e322939923.970617
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/104-index-cards.png
+x104-index-cards.png
+lSLF07#2@24"Copy 104-index-cards.png322939923#322939923#0(0"0(0#0#48"/Users/Pooya/Desktop/TabBar1/104-index-cards.png8601578912#447"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/104-index-cards.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/11-clock.png 11-clock.png
+s322939924.167240
+e322939924.178343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/11-clock.png
+x11-clock.png
+lSLF07#2@17"Copy 11-clock.png322939924#322939924#0(0"0(0#0#41"/Users/Pooya/Desktop/TabBar1/11-clock.png8604304544#440"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/11-clock.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/111-user.png 111-user.png
+s322939923.612777
+e322939923.619417
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/111-user.png
+x111-user.png
+lSLF07#2@17"Copy 111-user.png322939923#322939923#0(0"0(0#0#41"/Users/Pooya/Desktop/TabBar1/111-user.png8605795424#440"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/111-user.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/112-group.png 112-group.png
+s322939924.171462
+e322939924.179875
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/112-group.png
+x112-group.png
+lSLF07#2@18"Copy 112-group.png322939924#322939924#0(0"0(0#0#42"/Users/Pooya/Desktop/TabBar1/112-group.png8602288416#441"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/112-group.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/117-todo.png 117-todo.png
+s322939924.170596
+e322939924.188172
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/117-todo.png
+x117-todo.png
+lSLF07#2@17"Copy 117-todo.png322939924#322939924#0(0"0(0#0#41"/Users/Pooya/Desktop/TabBar1/117-todo.png8602702048#440"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/117-todo.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/125-food.png 125-food.png
+s322939923.954586
+e322939923.962835
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/125-food.png
+x125-food.png
+lSLF07#2@17"Copy 125-food.png322939923#322939923#0(0"0(0#0#41"/Users/Pooya/Desktop/TabBar1/125-food.png8602064512#440"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/125-food.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/142-wine-bottle.png 142-wine-bottle.png
+s322939924.101155
+e322939924.108382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/142-wine-bottle.png
+x142-wine-bottle.png
+lSLF07#2@24"Copy 142-wine-bottle.png322939924#322939924#0(0"0(0#0#48"/Users/Pooya/Desktop/TabBar1/142-wine-bottle.png8609301184#447"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/142-wine-bottle.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/177-building.png 177-building.png
+s322939924.168960
+e322939924.181822
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/177-building.png
+x177-building.png
+lSLF07#2@21"Copy 177-building.png322939924#322939924#0(0"0(0#0#45"/Users/Pooya/Desktop/TabBar1/177-building.png8603335072#444"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/177-building.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/187-pencil.png 187-pencil.png
+s322939924.169770
+e322939924.184597
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/187-pencil.png
+x187-pencil.png
+lSLF07#2@19"Copy 187-pencil.png322939924#322939924#0(0"0(0#0#43"/Users/Pooya/Desktop/TabBar1/187-pencil.png8602841024#442"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/187-pencil.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/193-location-arrow.png 193-location-arrow.png
+s322939923.613703
+e322939923.624443
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/193-location-arrow.png
+x193-location-arrow.png
+lSLF07#2@27"Copy 193-location-arrow.png322939923#322939923#0(0"0(0#0#51"/Users/Pooya/Desktop/TabBar1/193-location-arrow.png8604318304#450"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/193-location-arrow.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/48-fork-and-knife.png 48-fork-and-knife.png
+s322939923.956211
+e322939923.973410
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/48-fork-and-knife.png
+x48-fork-and-knife.png
+lSLF07#2@26"Copy 48-fork-and-knife.png322939923#322939923#0(0"0(0#0#50"/Users/Pooya/Desktop/TabBar1/48-fork-and-knife.png8590340992#449"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/48-fork-and-knife.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/63-runner.png 63-runner.png
+s322939923.960557
+e322939923.972438
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/63-runner.png
+x63-runner.png
+lSLF07#2@18"Copy 63-runner.png322939923#322939923#0(0"0(0#0#42"/Users/Pooya/Desktop/TabBar1/63-runner.png8600718784#441"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/63-runner.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/74-location.png 74-location.png
+s322939924.168137
+e322939924.181574
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/74-location.png
+x74-location.png
+lSLF07#2@20"Copy 74-location.png322939924#322939924#0(0"0(0#0#44"/Users/Pooya/Desktop/TabBar1/74-location.png8603625024#443"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/74-location.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/83-calendar.png 83-calendar.png
+s322939923.953547
+e322939923.960188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/83-calendar.png
+x83-calendar.png
+lSLF07#2@20"Copy 83-calendar.png322939923#322939923#0(0"0(0#0#44"/Users/Pooya/Desktop/TabBar1/83-calendar.png8602260672#443"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/83-calendar.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/88-beer-mug.png 88-beer-mug.png
+s322939923.957029
+e322939923.966533
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/88-beer-mug.png
+x88-beer-mug.png
+lSLF07#2@20"Copy 88-beer-mug.png322939923#322939923#0(0"0(0#0#44"/Users/Pooya/Desktop/TabBar1/88-beer-mug.png8601919104#443"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/88-beer-mug.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/96-book.png 96-book.png
+s322939923.957829
+e322939923.969607
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/96-book.png
+x96-book.png
+lSLF07#2@16"Copy 96-book.png322939923#322939923#0(0"0(0#0#40"/Users/Pooya/Desktop/TabBar1/96-book.png8601725120#439"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/96-book.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/Map.png Map.png
+s322939922.971792
+e322939922.978759
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/Map.png
+xMap.png
+lSLF07#2@12"Copy Map.png322939922#322939922#0(0"0(0#0#36"/Users/Pooya/Desktop/TabBar1/Map.png8602249152#435"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/Map.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBar1.app/Map1.png Map1.png
+s322939923.955387
+e322939923.966167
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBar1.app/Map1.png
+xMap1.png
+lSLF07#2@13"Copy Map1.png322939923#322939923#0(0"0(0#0#37"/Users/Pooya/Desktop/TabBar1/Map1.png8600002528#436"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Pooya/Desktop/TabBar1/Map1.png /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
+CGenerateDSYMFile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app.dSYM /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1
+s322939926.070500
+e322939926.123230
+r1
+xGenerateDSYMFile
+x/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app.dSYM
+x/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/TabBar1.app.dSYM build/Debug-iphonesimulator/TabBar1.app/TabBar1322939926#322939926#0(0"0(0#0#76"/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar18605762208#353"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1 -o /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app.dSYM0#
+
+CLd /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1 normal i386
+s322939926.020867
+e322939926.070380
+r1
+xLd
+x/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1
+xnormal
+xi386
+lSLF07#2@81"Link /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar1322939926#322939926#0(0"0(0#0#0"8609447136#901"    cd /Users/Pooya/Desktop/TabBar1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -F/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator -filelist /Users/Pooya/Desktop/TabBar1/build/TabBar1.build/Debug-iphonesimulator/TabBar1.build/Objects-normal/i386/TabBar1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework EventKit -framework SystemConfiguration -o /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/TabBar10#
+
+CProcessInfoPlistFile /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Info.plist TabBar1-Info.plist
+s322939921.647314
+e322939921.650499
+r1
+xProcessInfoPlistFile
+x/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Info.plist
+xTabBar1-Info.plist
+lSLF07#2@26"Process TabBar1-Info.plist322939921#322939921#0(0"0(0#0#47"/Users/Pooya/Desktop/TabBar1/TabBar1-Info.plist8603721568#449"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabBar1-Info.plist -genpkginfo /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app/Info.plist0#
+
+CProcessPCH /var/folders/zA/zA5CSVIqH6KWFazfWlwZ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBar1_Prefix-eyreqgskthwvqhgmhagmkgnptkpi/TabBar1_Prefix.pch.gch TabBar1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app
+s322939926.123322
+e322939926.127233
+r1
+xTouch
+x/Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app
+lSLF07#2@74"Touch /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app322939926#322939926#0(0"0(0#0#0"8603117152#258"    cd /Users/Pooya/Desktop/TabBar1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Pooya/Desktop/TabBar1/build/Debug-iphonesimulator/TabBar1.app0#
+
